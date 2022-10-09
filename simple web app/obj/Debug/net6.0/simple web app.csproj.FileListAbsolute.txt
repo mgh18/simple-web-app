@@ -1,0 +1,26 @@
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\appsettings.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\simple web app.staticwebassets.runtime.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\simple web app.exe
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\simple web app.deps.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\simple web app.runtimeconfig.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\simple web app.dll
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\ref\simple web app.dll
+C:\Users\marziyeh\source\repos\simple web app\simple web app\bin\Debug\net6.0\simple web app.pdb
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.AssemblyInfoInputs.cache
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.AssemblyInfo.cs
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.RazorAssemblyInfo.cache
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.RazorAssemblyInfo.cs
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\scopedcss\bundle\simple web app.styles.css
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\scopedcss\projectbundle\simple web app.bundle.scp.css
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.dll
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\ref\simple web app.dll
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.pdb
+C:\Users\marziyeh\source\repos\simple web app\simple web app\obj\Debug\net6.0\simple web app.genruntimeconfig.cache

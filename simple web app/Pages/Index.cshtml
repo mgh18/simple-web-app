@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>
+    @ViewData["message"]
+</h1>
+<h2>
+    @ViewData["number"]
+    
+</h2>
+<h2>
+    
+    @ViewBag.number
+</h2>
+<h1>
+    @Model.message
+</h1>
+<h1>Area </h1>
+<form method="post">
+    <input asp-for="Length"; type="number"  />
+    <input asp-for="Width"; type="number"  />
+    <button>Send</button>
+
+</form>
+@if(@ViewData["area"] != null)
+{
+    <span>
+        Area =
+        @ViewData["area"]
+    </span>
+}
+<img src="~/images/lulu.jpg" />
